@@ -102,3 +102,57 @@
 <p align="left">
   <b>Total Questions Solved:</b>  <i>[placeholder for completed_questions]</i>
 </p>
+<h3 align="left">Skill Progress:</h3>
+<p align="left">
+  <b>HTML</b>
+  <br>
+  <svg width="100" height="100" viewBox="0 0 36 36">
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831
+      a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3.8" />
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831" fill="none" stroke="#4caf50" stroke-width="3.8"
+      stroke-dasharray="90, 100" />
+    <text x="18" y="20.35" font-size="8" text-anchor="middle" fill="#333">90%</text>
+  </svg>
+</p>
+<p align="left">
+  <b>CSS</b>
+  <br>
+  <svg width="100" height="100" viewBox="0 0 36 36">
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831
+      a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3.8" />
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831" fill="none" stroke="#2196f3" stroke-width="3.8"
+      stroke-dasharray="80, 100" />
+    <text x="18" y="20.35" font-size="8" text-anchor="middle" fill="#333">80%</text>
+  </svg>
+</p>
+<p align="left">
+  <b>JavaScript</b>
+  <br>
+  <svg width="100" height="100" viewBox="0 0 36 36">
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831
+      a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3.8" />
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831" fill="none" stroke="#ff9800" stroke-width="3.8"
+      stroke-dasharray="85, 100" />
+    <text x="18" y="20.35" font-size="8" text-anchor="middle" fill="#333">85%</text>
+  </svg>
+</p>
+<p align="left">
+  <b>Python</b>
+  <br>
+  <svg width="100" height="100" viewBox="0 0 36 36">
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831
+      a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3.8" />
+    <path d="M18 2.0845
+      a 15.9155 15.9155 0 0 1 0 31.831" fill="none" stroke="#f44336" stroke-width="3.8"
+      stroke-dasharray="75, 100" />
+    <text x="18" y="20.35" font-size="8" text-anchor="middle" fill="#333">75%</text>
+  </svg>
+</p>
+
