@@ -75,33 +75,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Skill Progress:</h3>
-<p align="left">
-  <b>HTML</b>
-  <br>
-  <progress value="90" max="100"></progress> 90%
-</p>
-<p align="left">
-  <b>CSS</b>
-  <br>
-  <progress value="80" max="100"></progress> 80%
-</p>
-<p align="left">
-  <b>JavaScript</b>
-  <br>
-  <progress value="85" max="100"></progress> 85%
-</p>
-<p align="left">
-  <b>Python</b>
-  <br>
-  <progress value="75" max="100"></progress> 75%
-</p>
-
-<h3 align="left">LeetCode Stats:</h3>
-<p align="left">
-  <b>Total Questions Solved:</b>  <i>[placeholder for completed_questions]</i>
-</p>
 <h3 align="left">Skill Progress:</h3>
 <p align="left">
   <b>HTML</b>
@@ -155,4 +128,5 @@
     <text x="18" y="20.35" font-size="8" text-anchor="middle" fill="#333">75%</text>
   </svg>
 </p>
+
 
