@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Dalal</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **ATS Friendly Resume Builder**
-
 - 🌱 I’m currently learning **Python & DSA**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
