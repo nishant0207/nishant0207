@@ -13,14 +13,12 @@
 
 ### 📬 Connect with Me
 
-<div style="display: flex; gap: 15px;">
-  <a href="https://linkedin.com/in/nishant-dalal-70274012a" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/dalalnishant0207" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</div>
+<a href="https://linkedin.com/in/nishant-dalal-70274012a" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/dalalnishant0207" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 
 ---
 
@@ -90,17 +88,10 @@
 
 ### 📊 Skill Progress
 
-#### HTML
-![HTML Progress](https://progress-bar.dev/90/?title=HTML&color=4caf50)
-
-#### CSS
-![CSS Progress](https://progress-bar.dev/80/?title=CSS&color=2196f3)
-
-#### JavaScript
-![JavaScript Progress](https://progress-bar.dev/85/?title=JavaScript&color=ff9800)
-
-#### Python
-![Python Progress](https://progress-bar.dev/75/?title=Python&color=f44336)
+- **HTML**: `█████████████░░░░░░░ 90%`
+- **CSS**: `███████████░░░░░░░░ 80%`
+- **JavaScript**: `█████████████░░░░░░ 85%`
+- **Python**: `██████████░░░░░░░░░ 75%`
 
 ---
 
